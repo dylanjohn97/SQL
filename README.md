@@ -1,5 +1,14 @@
 # SQL Queries for Movie Rental Dashboard
 
+## Table of Contents 
+
+- [Project Overview](#project-overview)
+- [Data Cleaning](#data-cleaning)
+- [Data Analysis](#data-analysis)
+  
+
+
+
 ### Project Overview
 
 This project aims to transform data from a movie rental database into a format that can be easily consumed by the comapny dashboard.
